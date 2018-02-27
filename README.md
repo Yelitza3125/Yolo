@@ -66,6 +66,8 @@ Clientes que entren en el perfil de millennials.
 
 ![banca-digital](assets/docs/Planner-Bank.png)
 
+- Visualizar el planner en excel https://goo.gl/pkC3op
+
 
 
 
