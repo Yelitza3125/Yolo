@@ -62,6 +62,11 @@ Clientes que entren en el perfil de millennials.
 - ¿Cuál es el cambio trascendental que espera de un banco?
 
 
+## Planificación de actividades:
+
+![banca-digital](assets/docs/Planner-Bank.png)
+
+
 
 
  
