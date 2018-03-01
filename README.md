@@ -69,7 +69,28 @@ Clientes que entren en el perfil de millennials.
 ## Business Model Canvas
 ![Business Model Canvas](assets/docs/model-canvas.jpg)
 
-## Planificación de actividades:
+## Plan propuesto de investigación:
+
+### Meta de la investigación:
+
+Identificar las variables que determinan la preferencia de los millennials en temas financieros y analizar su comportamiento en el contexto digital.
+
+### Objetivo de la investigación:
+
+Conocer las características y motivaciones de los millennials, en  relación con los procesos financieros que realizan y su comportamiento en los medios digitales.
+
+### Producto a investigar:
+
+La banca tradicional y digital
+
+### Técnicas a utilizar:
+
+- Entrevistas a profundidad
+- Encuestas
+- Focus group.
+- Testing
+
+
 
 ![banca-digital](assets/docs/Planner-Bank.png)
 
