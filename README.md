@@ -30,7 +30,13 @@ Clientes que entren en el perfil de millennials.
 
 ## Reunión kick off:
 
-### PREGUNTAS (Cliente interno)
+### PREGUNTAS (Cliente interno banco)
+
+#### Guía de Entrevista personal banco
+
+##### Objetivos
+- ¿Cuál es el mensaje que se desea transmitir a los clientes a través de la banca digital?
+- Descubrir cuáles son las expectativas del personal con respecto a la banca digital.
 
 **CEO - Gerente de transformación digital - Inversionistas** 
 
@@ -54,17 +60,34 @@ Clientes que entren en el perfil de millennials.
 
 - ¿Cuáles son las limitaciones que tenemos?
 
-### PREGUNTAS (Cliente externo)
+### PREGUNTAS (Cliente externo millenials)
 
-- ¿Qué productos y/o servicios tiene del banco?
-- ¿Qué opinión tiene acerca de los productos y/o servicios del banco?
-- ¿Qué operaciones bancarias son las que más realiza?
-- ¿Qué operaciones bancarias son más tediosas?
-- ¿Por qué canal de atención se relaciona más con el banco?
-- ¿Cuál es el canal de atención con el que ha tenido más problemas?
-- ¿Cuáles son los valores que espera del Banco El País?
-- ¿Cuál es el cambio trascendental que espera de un banco?
+#### Guía de Entrevista Millenial
 
+##### Objetivos
+- ¿Cuál es la percepción de los clientes con respecto a los servicios que actualmente brinda el banco y como es la interacción digital de estos servicios?
+- Descubrir cuáles son las expectativas de los usuarios con respecto a la banca digital.
+
+##### I. Datos generales
+-	Nombre
+-	Edad
+-	Zona en la que vive
+-	¿Cómo describirías tu experiencia en el banco?
+
+##### III. Detalle entrevista
+**Percepción sobre los bancos**
+-	¿Cuáles son los bancos con los que trabaja?
+-	¿Cómo describirías tu experiencia con cada uno?
+-	Con respecto al banco de su preferencia, ¿Qué opinión tienes sobre los productos y/o servicios que brinda? 
+
+**Experiencia sobre los productos y canales del banco**
+-	¿Cuáles son los productos con los que cuentas? ¿Cuáles son las operaciones que realizas con mayor frecuencia? ¿Qué operaciones más difíciles o sencillas?
+-	¿Cuáles son los canales de atención que más utiliza? ¿Cómo ha sido su experiencia en estos canales? ¿Ha tenido algún problema?
+
+**Experiencia en canales digitales**
+-	Con respecto a los canales digitales ¿Conoce la banca digital que ofrece el banco? ¿Realiza operaciones a través de estos medios? ¿Cómo se siente utilizando este medio? ¿Cuáles son los problemas que ha detectado?
+-	¿Cómo se siente con las operaciones que puede realizar a través de los canales digitales? ¿Qué operaciones le gustaría agregar?
+-	En caso usar estos medios digitales ¿Qué es lo que más valora de la experiencia a la hora de utilizar estos canales? ¿Cuál es el cambio trascendental que ha significado el uso de estos canales?
 
 ## Business Model Canvas
 ![Business Model Canvas](assets/docs/model-canvas.jpg)
