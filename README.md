@@ -35,9 +35,7 @@ Clientes que entren en el perfil de millennials.
 
 ## Reunión kick off:
 
-### PREGUNTAS (Cliente interno banco)
-
-#### Guía de Entrevista personal banco
+### Guía de Entrevista personal banco
 
 ##### Objetivos:
 
@@ -68,40 +66,52 @@ Clientes que entren en el perfil de millennials.
 - ¿Cuáles son las limitaciones que tenemos?
 
 
-### PREGUNTAS (Cliente externo millenials)
 
-#### Guía de Entrevista Millenial
+### Guía de Entrevista Millenial
 
-##### Objetivos:
+#### Objetivos:
 
 - ¿Cuál es la percepción de los clientes con respecto a los servicios que actualmente brinda el banco y como es la interacción digital de estos servicios?
 - Descubrir cuáles son las expectativas de los usuarios con respecto a la banca digital.
 
-##### I. Datos generales
+#### Screener validation
 
--	Nombre
--	Edad
--	Zona en la que vive
--	¿Cómo describirías tu experiencia en el banco?
+- Por favor dime tu nombre.
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿Cómo estuvo tu día?
 
-##### III. Detalle entrevista
+#### 1.- INTERNET Y REDES SOCIALES 
 
-**Percepción sobre los bancos**
+- ¿Con qué frecuencia te conectas a Internet y qué dispositivos utilizas? ¿Qué actividades realizas con frecuencia en internet?
+- ¿Usas redes sociales? ¿Por qué las usas? ¿Qué es lo que más te gusta?
+- ¿Utilizas tu cuenta de redes sociales para loguearte o registrarte en otras páginas web? ¿Qué te motivó a hacerlo?
 
--	¿Cuáles son los bancos con los que trabaja?
--	¿Cómo describirías tu experiencia con cada uno?
--	Con respecto al banco de su preferencia, ¿Qué opinión tienes sobre los productos y/o servicios que brinda? 
+#### 2.- COMPRA ONLINE
 
-**Experiencia sobre los productos y canales del banco**
+- ¿Has realizado compras online alguna vez? ¿Qué artículo compraste?
+- ¿Cómo pagaste por ese producto?
+- ¿Puedes contarme un poco más sobre esa experiencia?
+- ¿Tuviste algún problema con el proceso de compra?
 
--	¿Cuáles son los productos con los que cuentas? ¿Cuáles son las operaciones que realizas con mayor frecuencia? ¿Qué operaciones más difíciles o sencillas?
--	¿Cuáles son los canales de atención que más utiliza? ¿Cómo ha sido su experiencia en estos canales? ¿Ha tenido algún problema?
+#### 3.- BANCOS
 
-**Experiencia en canales digitales**
+- ¿Recuerdas tu primera experiencia con un banco? 
+- ¿Que opinas de los bancos locales? 
+- ¿Cuentas con algún producto bancario? ¿Cual o cuales son?
+- ¿Con qué frecuencia realizas operaciones bancarias? ¿Cuál fue la última que realizaste? ¿Donde realizaste esa operación?
+- ¿Puedes contarme cómo fue esa experiencia? ¿Que te hubiera gustado mejorar?
 
--	Con respecto a los canales digitales ¿Conoce la banca digital que ofrece el banco? ¿Realiza operaciones a través de estos medios? ¿Cómo se siente utilizando este medio? ¿Cuáles son los problemas que ha detectado?
--	¿Cómo se siente con las operaciones que puede realizar a través de los canales digitales? ¿Qué operaciones le gustaría agregar?
--	En caso usar estos medios digitales ¿Qué es lo que más valora de la experiencia a la hora de utilizar estos canales? ¿Cuál es el cambio trascendental que ha significado el uso de estos canales?
+#### 4.- PERCEPCIÓN CON RESPECTO AL BANCO DE TU PREFERENCIA
+
+- ¿Por qué te decidiste por ese banco? ¿Con qué valores te identificas?
+- ¿Siempre has sido cliente de ese banco? Si no fue así, ¿Qué te hizo cambiar?
+- ¿Sientes que tienes control sobre tu dinero y que este está seguro en el banco?
+
+#### 5.- BANCA POR INTERNET
+- ¿Haz realizado transacciones bancarias a través de Internet?
+- Si lo hiciste ¿Por qué razón fue?
+- ¿Cómo fue esa experiencia? ¿Lograste el objetivo que tenías? ¿Qué dificultades pudiste encontrar? ¿De poder mejorar algo que cambiarías?
 
 ## Business Model Canvas
 
@@ -129,7 +139,26 @@ La banca tradicional y digital
 - Testing
 
 
-
 ![banca-digital](assets/docs/Planner-Bank.png)
 
-- Visualizar el planner en excel https://goo.gl/pkC3op
+[Visualizar el planner en excel](https://goo.gl/pkC3op)
+
+## RECOPILACIÓN Y ANÁLISIS DE DATOS
+
+### Resultados de Entrevistas
+
+#### 1.- Entrevista a Ari 
+
+- Edad: 27 años.
+- Profesión: Diseñadora Gráfica
+
+[Entrevista - Ari](https://drive.google.com/file/d/12dFhUSueyry5ou4dzk2CqRFxKFZWS4ZD/view?usp=sharing)
+
+
+
+#### 1.- Entrevista a Abigail
+
+- Edad: 33 años.
+- Profesión: Operadora de Logística
+
+[Entrevista Abigail](https://drive.google.com/file/d/1Rm5dbgPojK0U7Ps7bTkixeLAkgR8s60Z/view?usp=sharing)
