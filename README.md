@@ -162,3 +162,8 @@ La banca tradicional y digital
 - Profesión: Operadora de Logística
 
 [Entrevista Abigail](https://drive.google.com/file/d/1Rm5dbgPojK0U7Ps7bTkixeLAkgR8s60Z/view?usp=sharing)
+
+
+### Resultados de Encuesta Online
+
+![Encuesta online](assets/docs/encuesta-online.png)
