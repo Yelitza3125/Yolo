@@ -166,21 +166,21 @@ La banca tradicional y digital
 - Edad: 32 años.
 - Profesión: Senior Sales Engineer
 
-[Entrevista Michael]()
+[Entrevista Michael](https://drive.google.com/file/d/1H4py9OuUL5aTsNmttm7Rrgd2_6L-QvKX/view?usp=sharing)
 
 #### 4.- Entrevista a Pablo
 
 - Edad: 33 años.
 - Profesión: Médico psiquiatra
 
-[Entrevista Pablo]()
+[Entrevista Pablo](https://drive.google.com/file/d/1c8DqEdmcjyzF5oqti7MEG2Q-Bw0oHNr7/view?usp=sharing)
 
 #### 5.- Entrevista a Sandra
 
 - Edad: 32 años.
 - Profesión: Médico ocupacional
 
-[Entrevista Sandra]()
+[Entrevista Sandra](https://drive.google.com/file/d/1n55xB34wB0JWZwl8sDVOCeYYDkVuRftX/view?usp=sharing)
 
 ### Resultados de Encuesta Online
 
