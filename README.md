@@ -184,4 +184,17 @@ La banca tradicional y digital
 
 ### Resultados de Encuesta Online
 
+#### Conclusiones de la encuesta online.
+
+- El de los encuestados  se conecta al Internet entre 5 y 7 horas al día, especialmente para navegar y actualizar sus redes sociales.
+- El 81% de los encuestados utiliza su celular para conectarse a Internet.
+- El 85% de los encuestados confían en el banco que tienen ahora y utilizan la banca por Internet. Entre los motivos impotantes para ellos al momento de elegir un banco se encuentran la buena atención al cliente, las promociones y las bajas comisiones y cobros por mantenimiento.
+- Si tuvieran una banca totalmente digital, lo más importante para ellos sería la seguridad de sus datos y su dinero, y los procedimientos simples.
+
+
 ![Encuesta online](assets/docs/encuesta-online.png)
+
+
+## USER PERSONA
+
+![User Persona](assets/docs/luna.jpg)
