@@ -154,15 +154,33 @@ La banca tradicional y digital
 
 [Entrevista - Ari](https://drive.google.com/file/d/12dFhUSueyry5ou4dzk2CqRFxKFZWS4ZD/view?usp=sharing)
 
-
-
-#### 1.- Entrevista a Abigail
+#### 2.- Entrevista a Abigail
 
 - Edad: 33 años.
 - Profesión: Operadora de Logística
 
 [Entrevista Abigail](https://drive.google.com/file/d/1Rm5dbgPojK0U7Ps7bTkixeLAkgR8s60Z/view?usp=sharing)
 
+#### 3.- Entrevista a Michael
+
+- Edad: 32 años.
+- Profesión: Senior Sales Engineer
+
+[Entrevista Michael]()
+
+#### 4.- Entrevista a Pablo
+
+- Edad: 33 años.
+- Profesión: Médico psiquiatra
+
+[Entrevista Pablo]()
+
+#### 5.- Entrevista a Sandra
+
+- Edad: 32 años.
+- Profesión: Médico ocupacional
+
+[Entrevista Sandra]()
 
 ### Resultados de Encuesta Online
 
