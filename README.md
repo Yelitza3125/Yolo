@@ -198,3 +198,81 @@ La banca tradicional y digital
 ## USER PERSONA
 
 ![User Persona](assets/docs/luna.jpg)
+
+
+## IDENTIFICACIÓN DE INSIGHTS:
+
+Por medio de las entrevistas y las encuestas online, identificamos los siguientes insights:
+
+- Los Millennials les preocupa la seguridad de sus datos.
+- Los millennials necesitan procesos de operaciones rápidas y sencillas.
+- Los millennials no saben bien como organizar sus finanzas.
+
+
+## FEATURE LIST:
+
+### 1. Inicio de sesión.
+
+- Inicio de sesión con DNI y contraseña de banca digital
+- Ventana de saludo.
+
+### 2. Pago de servicios
+
+- Pago de servicio a través del número de suministro.
+- Elección desde que cuenta quiere pagar.
+- Envío del recibo al correo electrónico.
+
+### 3. Recarga (Metropolitano)
+
+- Recarga de tarjeta del Metropolitano a través del código de la tarjeta.
+- Elección desde que cuenta quiere pagar.
+
+### 4. Finanzas 
+
+- Selección de periodos de tiempo del que se quiere ver el reporte.
+- Gráfica de estadística.
+- Reporte de los gastos por secciones y con detalles de porcentajes.
+- Cada sección se puede ver de manera detallada. Explicando los datos de donde se registraron los gastos y los montos. 
+
+### 5. Transferencias.
+
+- La elección del destinatario de la transferencia se puede hacer por número de cuenta o de celular.
+- Se puede elegir desde que cuenta realizar la transferencia.
+- Se genera un comprobante electrónico de la transferencia.
+
+### 6. Metas (Individuales y compartidas)
+
+- Poder elegir entre una meta individual y compartida.
+- La meta compartida solo se concreta cuando la persona involucrada lo acepta.
+- Poder elegir el periodo en que se descontarán las cuotas.
+- Generación de cuotas de acuerdo a la meta económica planteada. 
+
+### 7. Reserva de turno de atención.
+
+- Poder reservar un turno de atención en oficina.
+- De acuerdo a la oficina ingresada se muestran los días y horarios disponibles.
+- Generación de ticket electrónico, que se envía al e-mail del usuario.
+
+### 8. Encuéntranos.
+
+- Mediante un buscador el usurio puede encontrar las oficinas, cajeros o agentes más cercanos.
+- Una vez elegido el destino, puede elegir como llegará al destino : "A pie" o "En auto". En ambos casos se envían indicaciones al usuario de como llegar.
+ 
+## USER FLOW
+
+
+## PAPER PROTOTYPING:
+
+Se realizó el prototipado de siete flujos principales:
+
+### Testing del paper prototyping.
+
+
+## PROTOTIPO DE ALTA FIDELIDAD.
+
+### Testing del prototipo de alta fidelidad
+
+
+
+
+
