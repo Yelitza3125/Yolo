@@ -214,6 +214,8 @@ Por medio del research ubicamos las siguientes funcionalidades en base a los pri
 
 ![Millennials](assets/docs/benchmark.png)
 
+[Visualizar detalle de funcionalidades encontradas](https://drive.google.com/file/d/1JUxskVloNYXimElifF148jT3CWyuxBYc/view?usp=sharing)
+
 ## FEATURE LIST:
 
 ### 1. Inicio de sesión.
