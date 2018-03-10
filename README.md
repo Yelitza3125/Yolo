@@ -267,6 +267,7 @@ Por medio del research ubicamos las siguientes funcionalidades en base a los pri
  
 ## USER FLOW
 
+![Millennials](assets/docs/flujo-ubicanos-metas.png)
 
 ## PAPER PROTOTYPING:
 
