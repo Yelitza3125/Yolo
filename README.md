@@ -208,6 +208,11 @@ Por medio de las entrevistas y las encuestas online, identificamos los siguiente
 - Los millennials necesitan procesos de operaciones rápidas y sencillas.
 - Los millennials no saben bien como organizar sus finanzas.
 
+## BENCHMARK:
+
+Por medio del research ubicamos las siguientes funcionalidades en base a los principales competidores:
+
+![Millennials](assets/docs/benchmark.png)
 
 ## FEATURE LIST:
 
