@@ -276,7 +276,6 @@ Por medio del research ubicamos las siguientes funcionalidades en base a los pri
 ![Mis finanzas](assets/docs/flujo-finanzas.jpg)
 
 
-
 ## PAPER PROTOTYPING:
 
 [Enlace al paper prototyping](https://docs.google.com/presentation/d/1TtrHyUErSiFr4_jnAvplWIq5AjBWEVFixu1g79m_bvE/edit?usp=sharing)
@@ -288,11 +287,28 @@ Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 - No entendían el término "Reservar que se utlizó", lo confundían con la reserva en algún restaurante.
 - No consideraban necesario el código QR, que se generaba luego de pagar un servicio.
 - Confusión sobre cuál era el menú principal. 
+- Cambiar el diseño de la pantalla de presentación de las metas, tratar de unificar los pasos junto con los textos.
+- Cambiar los textos de los datos de las metas, añadir un calendario de fecha de inicio ya que quizas me gustaria empezar la meta meses posteriores.
+- Quitar numero de transacción ya que no lo consideraban necesario.
+- Sugieron cambios en textos a la hora de hacer las alertas, no usar la palabla de comprobante y cambiarla por constancia.
 
 
 ## PROTOTIPO DE ALTA FIDELIDAD.
 
 ### Testing del prototipo de alta fidelidad
+
+[Enlace al prototipo de alta fidelidad](https://marvelapp.com/c4af799/screen/39428456)
+
+Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
+
+- Dentro de los procesos testeados el flujo de las metas y finanzas tuvieron aceptación y les parecio una idea atractiva. 
+- En el cuadro de finanzas las barras tenian un desorden en la numeración, sugirieron hacer el cambio.
+- En el flujo de la meta compartida solicitaron una previsualización de los montos totales y las cuotas individuales antes de mandar la alerta y la opción de hacer simulaciones de cuotas antes de completar la operación.
+
+![Millennials](assets/docs/feedback1.png)
+![Millennials](assets/docs/feedback2.png)
+![Millennials](assets/docs/feedback3.png)
+
 
 
 
