@@ -267,13 +267,27 @@ Por medio del research ubicamos las siguientes funcionalidades en base a los pri
  
 ## USER FLOW
 
-![Millennials](assets/docs/flujo-ubicanos-metas.png)
+![Inicio de sesión](assets/docs/flujo-inicio.jpg)
+![Ubícanos-metas](assets/docs/flujo-ubicanos-metas.png)
+![Recarga](assets/docs/flujo-recarga.png)
+![Servicios](assets/docs/flujo-servicios.jpg)
+![Transferencias](assets/docs/flujo-transferencias.jpg)
+![Turno de atención](assets/docs/flujo-turno.jpg)
+![Mis finanzas](assets/docs/flujo-finanzas.jpg)
+
+
 
 ## PAPER PROTOTYPING:
 
-Se realizó el prototipado de siete flujos principales:
+[Enlace al paper prototyping](https://docs.google.com/presentation/d/1TtrHyUErSiFr4_jnAvplWIq5AjBWEVFixu1g79m_bvE/edit?usp=sharing)
 
 ### Testing del paper prototyping.
+
+Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
+
+- No entendían el término "Reservar que se utlizó", lo confundían con la reserva en algún restaurante.
+- No consideraban necesario el código QR, que se generaba luego de pagar un servicio.
+- Confusión sobre cuál era el menú principal. 
 
 
 ## PROTOTIPO DE ALTA FIDELIDAD.
