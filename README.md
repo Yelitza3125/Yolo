@@ -1,6 +1,6 @@
-# Banco 100% digital:
+# YOL0:
 
-El Banco del País, es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que se han propuesto crear un banco 100% digital dirigido para millennials.
+Yolo es la aplicación del Banco el país. Yolo se basa en la filosofía de  "You only live one" (Solo se vive una vez). Por ello ofrecemos a nuestros clientes la transformación del banco tradicional al banco digital. De esta forma pueden realizar operaciones de manera más rápida y sencilla. Todo a través del celular. 
 
 ## Equipo de trabajo
 
@@ -295,6 +295,16 @@ Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 
 ## PROTOTIPO DE ALTA FIDELIDAD.
 
+### Flujos realizados:
+
+1. Inicio de sesión
+2. Pago de servicios (Luz)
+3. Recargas (Metropolitano)
+4. Consulta de mis finanzas
+5. Encuéntranos (Ubicación de oficinas, agencias y cajeros)
+6. Metas (individuales y compartidas)
+7. Reservar turno de atención. 
+
 ### Testing del prototipo de alta fidelidad
 
 [Enlace al prototipo de alta fidelidad](https://marvelapp.com/c4af799/screen/39428456)
@@ -310,7 +320,17 @@ Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 ![Millennials](assets/docs/feedback3.png)
 
 
+### Flujos Añadidos:
+
+1. Registro para clientes nuevos.
+2. Promociones a través de "La alcancía".
+3. Vista del perfil.
+4. Mis cuentas. (Registro de las cuentas del usuario)
 
 
+## HERRAMIENTAS UTILIZADAS:
 
-
+- Marvel
+- Figma.
+- Prototipado en papel.
+- Adobe Ilustrator
