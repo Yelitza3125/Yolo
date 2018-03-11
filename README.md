@@ -1,13 +1,18 @@
-# YOL0:
+# **YOLO**:
 
 Yolo es la aplicación del Banco el país. Yolo se basa en la filosofía de  "You only live one" (Solo se vive una vez). Por ello ofrecemos a nuestros clientes la transformación del banco tradicional al banco digital. De esta forma pueden realizar operaciones de manera más rápida y sencilla. Todo a través del celular. 
 
-## Equipo de trabajo
+![logo-yolo](https://user-images.githubusercontent.com/32287220/37250330-1638e0ea-24c8-11e8-8fab-0904b8425242.jpg)
+
+
+## **Equipo de trabajo**
 
 + Loayza, Lourdes
 + Cisneros Torre, Yelitza.
 
-## Target: Millennials
+## **Research**
+
+### **Target: Millennials**
 
 
 ![Millennials](assets/docs/millennials.jpg)
@@ -15,9 +20,9 @@ Yolo es la aplicación del Banco el país. Yolo se basa en la filosofía de  "Yo
 
 
 
-## Stakeholders:
+### **Stakeholders:**
 
-#### Cliente interno:
+#### **Cliente interno:**
 
 - CEO
 - Gerente de transformación digital
@@ -27,17 +32,17 @@ Yolo es la aplicación del Banco el país. Yolo se basa en la filosofía de  "Yo
 - Gerentes de agencias.
 - Community manager
 - Jefe de ventas.
-- 
 
-#### Cliente externo:
+
+#### **Cliente externo:**
 
 Clientes que entren en el perfil de millennials.
 
-## Reunión kick off:
+### **Reunión kick off:**
 
-### Guía de Entrevista personal banco
+### **Guía de Entrevista personal banco**
 
-##### Objetivos:
+##### **Objetivos:**
 
 - ¿Cuál es el mensaje que se desea transmitir a los clientes a través de la banca digital?
 - Descubrir cuáles son las expectativas del personal con respecto a la banca digital.
@@ -67,9 +72,9 @@ Clientes que entren en el perfil de millennials.
 
 
 
-### Guía de Entrevista Millenial
+### **Guía de Entrevista Millenial**
 
-#### Objetivos:
+#### **Objetivos:**
 
 - ¿Cuál es la percepción de los clientes con respecto a los servicios que actualmente brinda el banco y como es la interacción digital de estos servicios?
 - Descubrir cuáles son las expectativas de los usuarios con respecto a la banca digital.
@@ -81,20 +86,20 @@ Clientes que entren en el perfil de millennials.
 - ¿En qué distrito vives?
 - ¿Cómo estuvo tu día?
 
-#### 1.- INTERNET Y REDES SOCIALES 
+#### 1.- Internet y redes sociales
 
 - ¿Con qué frecuencia te conectas a Internet y qué dispositivos utilizas? ¿Qué actividades realizas con frecuencia en internet?
 - ¿Usas redes sociales? ¿Por qué las usas? ¿Qué es lo que más te gusta?
 - ¿Utilizas tu cuenta de redes sociales para loguearte o registrarte en otras páginas web? ¿Qué te motivó a hacerlo?
 
-#### 2.- COMPRA ONLINE
+#### 2.- Compra online
 
 - ¿Has realizado compras online alguna vez? ¿Qué artículo compraste?
 - ¿Cómo pagaste por ese producto?
 - ¿Puedes contarme un poco más sobre esa experiencia?
 - ¿Tuviste algún problema con el proceso de compra?
 
-#### 3.- BANCOS
+#### 3.- Bancos
 
 - ¿Recuerdas tu primera experiencia con un banco? 
 - ¿Que opinas de los bancos locales? 
@@ -102,36 +107,37 @@ Clientes que entren en el perfil de millennials.
 - ¿Con qué frecuencia realizas operaciones bancarias? ¿Cuál fue la última que realizaste? ¿Donde realizaste esa operación?
 - ¿Puedes contarme cómo fue esa experiencia? ¿Que te hubiera gustado mejorar?
 
-#### 4.- PERCEPCIÓN CON RESPECTO AL BANCO DE TU PREFERENCIA
+#### 4.- Percepción respecto al banco de tu preferencia
 
 - ¿Por qué te decidiste por ese banco? ¿Con qué valores te identificas?
 - ¿Siempre has sido cliente de ese banco? Si no fue así, ¿Qué te hizo cambiar?
 - ¿Sientes que tienes control sobre tu dinero y que este está seguro en el banco?
 
-#### 5.- BANCA POR INTERNET
+#### 5.- Banca por Internet
+
 - ¿Haz realizado transacciones bancarias a través de Internet?
 - Si lo hiciste ¿Por qué razón fue?
 - ¿Cómo fue esa experiencia? ¿Lograste el objetivo que tenías? ¿Qué dificultades pudiste encontrar? ¿De poder mejorar algo que cambiarías?
 
-## Business Model Canvas
+### **Business Model Canvas**
 
 ![Business Model Canvas](assets/docs/model-canvas.jpg)
 
-## Plan propuesto de investigación:
+### **Plan propuesto de investigación:**
 
-### Meta de la investigación:
+#### Meta de la investigación:
 
 Identificar las variables que determinan la preferencia de los millennials en temas financieros y analizar su comportamiento en el contexto digital.
 
-### Objetivo de la investigación:
+#### Objetivo de la investigación:
 
 Conocer las características y motivaciones de los millennials, en  relación con los procesos financieros que realizan y su comportamiento en los medios digitales.
 
-### Producto a investigar:
+#### Producto a investigar:
 
 La banca tradicional y digital
 
-### Técnicas a utilizar:
+#### Técnicas a utilizar:
 
 - Entrevistas a profundidad
 - Encuestas
@@ -143,46 +149,47 @@ La banca tradicional y digital
 
 [Visualizar el planner en excel](https://goo.gl/pkC3op)
 
-## RECOPILACIÓN Y ANÁLISIS DE DATOS
 
-### Resultados de Entrevistas
+## **RECOPILACIÓN Y ANÁLISIS DE DATOS**
 
-#### 1.- Entrevista a Ari 
+### **Resultados de Entrevistas**
+
+#### 1.- **Entrevista a Ari** 
 
 - Edad: 27 años.
 - Profesión: Diseñadora Gráfica
 
 [Entrevista - Ari](https://drive.google.com/file/d/12dFhUSueyry5ou4dzk2CqRFxKFZWS4ZD/view?usp=sharing)
 
-#### 2.- Entrevista a Abigail
+#### 2.- **Entrevista a Abigail**
 
 - Edad: 33 años.
 - Profesión: Operadora de Logística
 
 [Entrevista Abigail](https://drive.google.com/file/d/1Rm5dbgPojK0U7Ps7bTkixeLAkgR8s60Z/view?usp=sharing)
 
-#### 3.- Entrevista a Michael
+#### 3.- **Entrevista a Michael**
 
 - Edad: 32 años.
 - Profesión: Senior Sales Engineer
 
 [Entrevista Michael](https://drive.google.com/file/d/1H4py9OuUL5aTsNmttm7Rrgd2_6L-QvKX/view?usp=sharing)
 
-#### 4.- Entrevista a Pablo
+#### 4.- **Entrevista a Pablo**
 
 - Edad: 33 años.
 - Profesión: Médico psiquiatra
 
 [Entrevista Pablo](https://drive.google.com/file/d/1c8DqEdmcjyzF5oqti7MEG2Q-Bw0oHNr7/view?usp=sharing)
 
-#### 5.- Entrevista a Sandra
+#### 5.- **Entrevista a Sandra**
 
 - Edad: 32 años.
 - Profesión: Médico ocupacional
 
 [Entrevista Sandra](https://drive.google.com/file/d/1n55xB34wB0JWZwl8sDVOCeYYDkVuRftX/view?usp=sharing)
 
-### Resultados de Encuesta Online
+### **Resultados de Encuesta Online**
 
 #### Conclusiones de la encuesta online.
 
@@ -195,12 +202,12 @@ La banca tradicional y digital
 ![Encuesta online](assets/docs/encuesta-online.png)
 
 
-## USER PERSONA
-
-![User Persona](assets/docs/luna.jpg)
 
 
-## IDENTIFICACIÓN DE INSIGHTS:
+##  **SÍNTESIS Y DEFINICIÓN** 
+
+
+### **Identificación de Insights:**
 
 Por medio de las entrevistas y las encuestas online, identificamos los siguientes insights:
 
@@ -208,7 +215,9 @@ Por medio de las entrevistas y las encuestas online, identificamos los siguiente
 - Los millennials necesitan procesos de operaciones rápidas y sencillas.
 - Los millennials no saben bien como organizar sus finanzas.
 
-## BENCHMARK:
+
+
+### **Benchmark:**
 
 Por medio del research ubicamos las siguientes funcionalidades en base a los principales competidores:
 
@@ -216,56 +225,83 @@ Por medio del research ubicamos las siguientes funcionalidades en base a los pri
 
 [Visualizar detalle de funcionalidades encontradas](https://drive.google.com/file/d/1JUxskVloNYXimElifF148jT3CWyuxBYc/view?usp=sharing)
 
-## FEATURE LIST:
 
-### 1. Inicio de sesión.
+
+### **User persona**
+
+![User Persona](assets/docs/luna.jpg)
+
+### **Definición de los Problems Statements**
+
+- **Luna necesita** manejar sus operaciones bancarias por el celular,**porque** es más práctico.
+- **Luna necesita** poder pagar los recibos de los servicios de manera rápida **para** evitar las colas.
+- **Luna necesita** tener el reporte de sus finanzas **para** que pueda organizarse y ahorrar.
+- **Luna necesita** ayuda para poder lograr las metas que se pone **porque** se le hace difícil ahorrar.
+
+
+### **Definición de los Feature List**
+
+
+#### **1. Registro**
+- Registro de cliente nuevo a través de un formulario enviado al correo del usuario
+
+#### **2. Inicio de sesión.**
 
 - Inicio de sesión con DNI y contraseña de banca digital
 - Ventana de saludo.
 
-### 2. Pago de servicios
+#### **3. Perfil**
+
+- Poder ver sus cuentas y el saldo disponible.
+
+#### **4. Pago de servicios (Luz)**
 
 - Pago de servicio a través del número de suministro.
 - Elección desde que cuenta quiere pagar.
 - Envío del recibo al correo electrónico.
 
-### 3. Recarga (Metropolitano)
+#### **5. Recarga (Metropolitano)**
 
 - Recarga de tarjeta del Metropolitano a través del código de la tarjeta.
 - Elección desde que cuenta quiere pagar.
 
-### 4. Finanzas 
+#### **6. Finanzas** 
 
 - Selección de periodos de tiempo del que se quiere ver el reporte.
 - Gráfica de estadística.
 - Reporte de los gastos por secciones y con detalles de porcentajes.
 - Cada sección se puede ver de manera detallada. Explicando los datos de donde se registraron los gastos y los montos. 
 
-### 5. Transferencias.
+#### **7. Transferencias.**
 
 - La elección del destinatario de la transferencia se puede hacer por número de cuenta o de celular.
 - Se puede elegir desde que cuenta realizar la transferencia.
 - Se genera un comprobante electrónico de la transferencia.
 
-### 6. Metas (Individuales y compartidas)
+#### **8. Metas (Individuales y compartidas)**
 
 - Poder elegir entre una meta individual y compartida.
 - La meta compartida solo se concreta cuando la persona involucrada lo acepta.
 - Poder elegir el periodo en que se descontarán las cuotas.
 - Generación de cuotas de acuerdo a la meta económica planteada. 
 
-### 7. Reserva de turno de atención.
+#### **9. Reserva de turno de atención.**
 
 - Poder reservar un turno de atención en oficina.
 - De acuerdo a la oficina ingresada se muestran los días y horarios disponibles.
 - Generación de ticket electrónico, que se envía al e-mail del usuario.
 
-### 8. Encuéntranos.
+#### **10. Encuéntranos.**
 
 - Mediante un buscador el usurio puede encontrar las oficinas, cajeros o agentes más cercanos.
 - Una vez elegido el destino, puede elegir como llegará al destino : "A pie" o "En auto". En ambos casos se envían indicaciones al usuario de como llegar.
  
-## USER FLOW
+#### **11. La alcancía.**
+
+ - Ganar promociones a través de la alcancia.
+
+
+### **User Flow**
 
 ![Inicio de sesión](assets/docs/flujo-inicio.jpg)
 ![Ubícanos-metas](assets/docs/flujo-ubicanos-metas.png)
@@ -276,11 +312,11 @@ Por medio del research ubicamos las siguientes funcionalidades en base a los pri
 ![Mis finanzas](assets/docs/flujo-finanzas.jpg)
 
 
-## PAPER PROTOTYPING:
+## **PAPER PROTOTYPING:**
 
 [Enlace al paper prototyping](https://docs.google.com/presentation/d/1TtrHyUErSiFr4_jnAvplWIq5AjBWEVFixu1g79m_bvE/edit?usp=sharing)
 
-### Testing del paper prototyping.
+### **Testing del paper prototyping.**
 
 Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 
@@ -293,9 +329,9 @@ Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 - Sugieron cambios en textos a la hora de hacer las alertas, no usar la palabla de comprobante y cambiarla por constancia.
 
 
-## PROTOTIPO DE ALTA FIDELIDAD.
+## **PROTOTIPO DE ALTA FIDELIDAD.**
 
-### Flujos realizados:
+### **Flujos realizados:**
 
 1. Inicio de sesión
 2. Pago de servicios (Luz)
@@ -305,7 +341,7 @@ Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 6. Metas (individuales y compartidas)
 7. Reservar turno de atención. 
 
-### Testing del prototipo de alta fidelidad
+### **Testing del prototipo de alta fidelidad**
 
 [Enlace al prototipo de alta fidelidad](https://marvelapp.com/c4af799/screen/39428456)
 
@@ -320,7 +356,7 @@ Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 ![Millennials](assets/docs/feedback3.png)
 
 
-### Flujos Añadidos:
+### **Flujos Añadidos:**
 
 1. Registro para clientes nuevos.
 2. Promociones a través de "La alcancía".
@@ -328,7 +364,7 @@ Se realizó el testing con 4 personas. Se obtuvo el siguiente feedback
 4. Mis cuentas. (Registro de las cuentas del usuario)
 
 
-## HERRAMIENTAS UTILIZADAS:
+## **HERRAMIENTAS UTILIZADAS:**
 
 - Marvel
 - Figma.
