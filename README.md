@@ -5,6 +5,11 @@ Yolo es la aplicación del Banco el país. Yolo se basa en la filosofía de  "Yo
 ![logo-yolo](https://user-images.githubusercontent.com/32287220/37250330-1638e0ea-24c8-11e8-8fab-0904b8425242.jpg)
 
 
+## Desarrollado para
+
+[Laboratoria](http://laboratoria.la)
+***
+
 ## **Equipo de trabajo**
 
 + Loayza, Lourdes
